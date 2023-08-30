@@ -8,6 +8,6 @@ We would like to use a combination of financial data and text-based sentiment an
 With the theory that the reported EPS of a “meme stock” is a function of its financial performance and its online public sentiment, we have identified 5 sources to form a composite dataset, namely (1) Reddit Posts (2) Twitter Tweets (3) Earnings Calls (4) Company Financials and (5) Google Analytics Trends. 
 We selected the top 100 stocks that were most frequently mentioned in Reddit posts in the past year. Our data collection time frame is 3 years, which is about the time when retail interest in investing grew exponentially.
 
-Baseline Binary Classification Models - Logistic Regression & SVM (1 for EPS beat and 0 for miss).
-Possible Models: Decision trees (XGBoost and LightGBM), Neural networks.
+Baseline Binary Classification Models - Logistic Regression & SVM (1 for EPS beat and 0 for miss).  
+Possible Models: Decision trees (XGBoost and LightGBM), Neural networks.  
 Model Evaluation: Measure the F1-Score and AUC-ROC to determine model performance.
