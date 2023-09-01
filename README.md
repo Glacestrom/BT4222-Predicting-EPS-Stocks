@@ -1,4 +1,5 @@
 # BT4222 - Prediction of Earnings per Share for Meme Stocks
+Project Dates: September 2022 - November 2022
 ## Disclaimer
 This GitHub repository primarily showcases the portions of the project that I solely contributed and can confidently claim as my work. Since this project was a collaborative effort, some components or results may not be entirely reproducible when taken out of the group context. Please keep this in mind when exploring the content presented here. If you have any questions or need further clarification, feel free to reach out. Thank you for understanding.
 
